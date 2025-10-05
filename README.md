@@ -13,11 +13,8 @@ pip install
 Clone this repo and run the python file!
 
 ## Future Plans
-1. Fix the unable to add newline issue.
-2. Add the ability to store recently used languages in a form of JSON.
-3. Ability to store versions in a file format as well.
-4. Convert it into a GUI app.
-5. Add few optional and useful fields.
-6. Insert more Formatting options.
-7. Required Packages in a more clean format and fix where no required packages still shows up.
-8. Fix the naming issue of the 'README1.md' as it depends on the count variable and not on the available READMEs in the directory.
+1. Add few optional and useful fields.
+2. Insert more Formatting options.
+3. Required Packages in a more clean format and fix where no packages are used and still  'required packages' still shows up.
+4. Create a computer GUI app using Tkinter/Streamlit.
+5. Try to establish network between the Native Mobile App & API.
