@@ -1,0 +1,38 @@
+{
+  "languages": [
+    "Python",
+    "Javascript",
+    "HTML",
+    "CSS"
+  ],
+  "Python": [
+    "None",
+    "Flask",
+    "Pandas",
+    "OpenCV",
+    "Numpy",
+    "Matplotlib",
+    "Pillow",
+    "Plotly",
+    "Seaborn",
+    "JSON",
+    "Requests",
+    "Django",
+    "Time",
+    "Os",
+    "Mediapipe",
+    "Pyautogui"
+  ],
+  "Javascript": [
+    "None",
+    "React"
+  ],
+  "HTML": [
+    "None",
+    "Bootstrap"
+  ],
+  "CSS": [
+    "None",
+    "Tailwind"
+  ]
+}
